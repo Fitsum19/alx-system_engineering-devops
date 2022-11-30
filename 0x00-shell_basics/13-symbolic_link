@@ -1,2 +1,2 @@
 #!/bin/bashln 
-ln -s /bin/s _s_
+ln -s /bin/ls _ls_
