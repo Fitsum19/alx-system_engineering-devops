@@ -1,0 +1,2 @@
+#!/bin/bash
+export POWER=100  DVIDE=20   ans=$((POWER/DVIDE)) echo $ans
