@@ -1,5 +1,5 @@
 # Create a file
-file { 'holberton':
+file { '/tmp':
   path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
