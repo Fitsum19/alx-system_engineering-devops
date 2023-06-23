@@ -1,6 +1,6 @@
 # Create a file
 file { 'holberton':
-  path    => '/tmp/ALX',
+  path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
